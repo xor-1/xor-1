@@ -40,9 +40,10 @@ I specialize in **hands-on security labs**, incident analysis, and building a st
 ---
 
 ## 📂 Portfolio Projects
+- 🔹 **Windows Compliance Tool**
+- 🔹 **PortXor** - Network Port Scanner
 - 🔹 **File Integrity Monitoring Lab** — Setup, configuration, and log analysis  
 - 🔹 **Firewall Rules & Traffic Analysis** — Building a secure network environment  
-- 🔹 **Incident Detection & Response** — Simulated SOC workflows  
 
 > 📌 You can explore all my detailed security labs
 
