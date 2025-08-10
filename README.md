@@ -9,11 +9,11 @@ I specialize in **hands-on security labs**, incident analysis, and building a st
 ---
 
 ## ​ Certifications
-<p align="left">
+<p align="center">
   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cyber Security - Cisco" width="150" />&nbsp; &nbsp; &nbsp;
-  <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics - Cisco" width="150" />
-  <img src="https://drive.google.com/file/d/1SfbnmLw9ffYRsIe45XD4ctBqeiqC2BM1/view?usp=sharing" alt="Certified in Cyber Security (CC) - ISC2 CC" width="150" />
-  <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics - Cisco" width="150" />
+  <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics - Cisco" width="150" />&nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/xor-1/assets/blob/main/images/CC%20BADGE.png?raw=true" alt="Certified in Cyber Security (CC) - ISC2 CC" width="150" />&nbsp; &nbsp; &nbsp;
+  <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cyber Security Professional Certificate" width="150" />&nbsp; &nbsp; &nbsp;
 </p>
 
 ---
