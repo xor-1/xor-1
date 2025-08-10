@@ -20,11 +20,21 @@ I specialize in **hands-on security labs**, incident analysis, and building a st
 
 ## 🛠 Skills & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Team%20Operations-B22222?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-FF8C00?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Security-333333?style=for-the-badge&logo=linux&logoColor=white" />
+  <!-- Blue Team -->
+  <img src="https://img.shields.io/badge/SIEM-1E90FF?style=for-the-badge&logo=elasticstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-800080?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAR-FF4500?style=for-the-badge&logo=automation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-FF0000?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-2E8B57?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Analyst-000000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware%20Analysis-8B0000?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-FF8C00?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk%20Management-4169E1?style=for-the-badge&logo=datadog&logoColor=white" />
+
+  <!-- Red Team -->
+  <img src="https://img.shields.io/badge/Vulnerability%20Scanning-DC143C?style=for-the-badge&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Penetration%20Testing-B22222?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploit%20Research-8B008B?style=for-the-badge&logo=exploitdb&logoColor=white" />
 </p>
 
 ---
@@ -34,13 +44,13 @@ I specialize in **hands-on security labs**, incident analysis, and building a st
 - 🔹 **Firewall Rules & Traffic Analysis** — Building a secure network environment  
 - 🔹 **Incident Detection & Response** — Simulated SOC workflows  
 
-> 📌 You can explore all my detailed Wazuh and security labs here: [My Security Labs Repository](#)
+> 📌 You can explore all my detailed security labs
 
 ---
 
 ## 📫 Contact Me
 <p align="left">
-  <a href="mailto:muhammadfaisalfarooq@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:faisalfarooq17121@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammadfaisalfarooq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/faisalfarooq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/xor-1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
