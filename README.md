@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=24&duration=3000&pause=1000&color=00FFAA&vCenter=true&width=500&lines=Cybersecurity+Enthusiast+%7C+Aspiring+SOC+Analyst;Developing+Real-World+Security+Operations+Skills;Offensive+Security+%26+Threat+Hunting+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech&size=40&duration=3000&pause=1000&color=00FFAA&vCenter=true&width=1000&lines=Cybersecurity+Enthusiast+%7C+Aspiring+SOC+Analyst;Developing+Real-World+Security+Operations+Skills;Offensive+Security+%26+Threat+Hunting+Learner)](https://git.io/typing-svg)
 
 ---
 
