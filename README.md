@@ -9,13 +9,8 @@
 <div style="text-align: center;">
     <img src="Images/CC.png" alt="CC" width="100">
     <img src="Images/ISO.png" alt="Information Security Associate" width="150">
-    <img src="Images/DevOps.png" alt="Microsoft DevOps" width="150">
-    <img src="Images/ICCA.png" alt="ICCA" width="100">
-    <img src="Images/eJPT.png" alt="eJPT" width="100">
-    <img src="Images/crta.png" alt="eJPT" width="125">
-    <img src="Images/cnsp.png" alt="eJPT" width="125">
-    <img src="Images/CPTS.png" alt="eJPT" width="125">
-    
+    <img src="Images/google-cybersecurity-professional-certificate-v2.png" alt="Google cybersecurity professional certificate" width="150">
+
 ---
 
 ## Connect with me:
