@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=+%E2%9C%93+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+SOC+Analyst;%E2%9C%93+CTF+Player+;%E2%9C%93+Blue+Teamer;)
 
-<h1 align="center">Hi, I'm Faisal aka XOR 1</h1>
+<h1 align="center">Hi, I'm Faisal aka XOR1</h1>
 <h3 align="center">| Cyber Security Analyst | CTF Player | Blue Teamer | SOC Analyst | DFIR | Threat Hunting |</h3>
 
 ---
