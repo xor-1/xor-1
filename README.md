@@ -30,7 +30,9 @@
 ---
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![xor-1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xor-1&theme=gruvbox&hide_border=false)
+
+![xor-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
