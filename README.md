@@ -29,6 +29,13 @@
 
 ---
 
+## TryHackMe Stats:
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3558805)
+
+
+---
+
+
 ## GitHub Stats:
 ![xor-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
