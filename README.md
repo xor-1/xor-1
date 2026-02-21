@@ -30,14 +30,15 @@
 ---
 
 ## TryHackMe Stats:
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3558805)
+<img src="https://tryhackme-badges.s3.amazonaws.com/muhammadfaysalfarooq.png" alt="Your Image Badge" />
 
 
 ---
 
 
-## GitHub Stats:
-![xor-1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+<!--## GitHub Stats:
+[![XOR_1's GitHub stats](https://github-readme-stats.vercel.app/api?username=xor-1)] -->
+
 
 ---
 
