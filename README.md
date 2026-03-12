@@ -106,7 +106,7 @@ I focus on identifying vulnerabilities across **web applications, networks, and 
 
 <p align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/muhammadfaysalfarooq.png"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/muhammadfaysalfarooq.png" alt="Your Image Badge" />
 
 </p>
 
