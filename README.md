@@ -41,7 +41,7 @@ I focus on identifying vulnerabilities across **web applications, networks, and 
 
 <p align="center">
 
-<img src="Images/CC.png" width="110">
+<img src="Images/CC.webp" width="110">
 <img src="Images/ISO.png" width="160">
 <img src="Images/google-cybersecurity-professional-certificate-v2.png" width="160">
 
