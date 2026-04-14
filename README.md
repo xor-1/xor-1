@@ -84,9 +84,9 @@ I focus on identifying vulnerabilities across **web applications, networks, and 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xor-1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xor-1&show_icons=true&theme=tokyonight&hide_border=false"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xor-1&layout=compact&theme=tokyonight&hide_border=false"/>
 
 </p>
 
