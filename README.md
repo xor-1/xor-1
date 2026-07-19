@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Role-Red%20Teamer-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Interest-Exploit%20Development-darkred?style=for-the-badge">
+<img src="https://img.shields.io/badge/Interest-Web Exploitation,%20AD%20hacking%20&%20Infra%20Pentest-darkred?style=for-the-badge">
 
 </p>
 
@@ -25,15 +25,6 @@
 🔴 Offensive Security enthusiast passionate about **breaking systems to build stronger ones.**
 
 I focus on identifying vulnerabilities across **web applications, networks, and infrastructure** while continuously sharpening my skills through **CTFs, research, and hands-on security testing.**
-
-### 🔍 Areas of Interest
-
-⚔️ Red Team Operations
-🌐 Web Application Security
-🧪 Vulnerability Research
-💣 Exploit Development
-🔐 Application Security
-🏴 Capture The Flag (CTF)
 
 ---
 
